@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Experiment1LAB</string>
+    <string name="this_is_the_text_that_needs_to_be_changed">This is the text that needs to be changed</string>
+    <string name="change_font">Change Font</string>
+    <string name="change_colour">Change Colour</string>
+</resources>
